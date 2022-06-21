@@ -1,0 +1,23 @@
+.navbar {
+  height: 48px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.items {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  height: 50%;
+}
+
+.about,
+.portfolio,
+.contact {
+  background-color: #f6f6f6;
+}
